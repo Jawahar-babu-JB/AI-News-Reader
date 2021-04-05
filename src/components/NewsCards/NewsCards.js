@@ -6,9 +6,9 @@ import useStyles from './styles.js'
 
 
 const infoCards = [
-    { color: '#FF390E', title: 'Latest News', text: 'Give me the latest news', cate:'All Types of NEWS' },
+    { color: '#FF390E', title: 'Latest News', text: 'Give me the latest news', cate:'The Recent Latest News' },
     { color: '#D10000', title: 'News by Categories', cate: 'Business, Entertainment, General, Health, Science, Sports, Technology...', text: 'Give me the latest Technology news' },
-    { color: '#138E00', title: 'News by Terms', cate: 'Bitcoin, PlayStation 5, Smartphones, Donald Trump...', text: 'What\'s up with PlayStation 5' },
+    { color: '#138E00', title: 'News by Terms', cate: 'Bitcoin, Smartphones & any terms you need !', text: 'What\'s up with PlayStation 5' },
     { color: '#92004B', title: 'News by Sources', cate: 'BBC News', text: 'Give me the news from BBC' },
 
     // { color: '#8900CA', title: 'Weather',cate: 'Provides weather conditions and details like temperature, humidity, and pressure. Shows a widget with weather information.', text: 'What is the weather now?' },

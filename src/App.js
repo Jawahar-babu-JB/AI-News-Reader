@@ -74,7 +74,7 @@ const App = () => {
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
           AI Voice Controlled News Reader<br /> Designed Using  
-            <a className={classes.linkBottom} target="_blank" href="https://alan.app/"> Alan.app</a>
+            <a className={classes.linkBottom} target="_blank" href="https://alan.app/"> alan.app</a>
           </Typography>
         </div>
       ) : null}
